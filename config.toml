@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "./"
 languageCode = "en-us"
 title = "FlowCon France"
 theme = "evento"
