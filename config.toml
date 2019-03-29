@@ -1,4 +1,4 @@
-baseURL = "https://flowconfrance.github.io/flowcon-site/"
+baseURL = "https://flowconfrance.github.io/"
 languageCode = "en-us"
 title = "FlowCon France"
 theme = "evento"
